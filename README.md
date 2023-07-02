@@ -11,5 +11,5 @@ You can see the python code in Jupiter Notebook. Also for clarity there are grap
 - speed from range
 - acceleration from time
 - acceleration from range
-- Target trajectory in 3D
+- target trajectory in 3D
 
