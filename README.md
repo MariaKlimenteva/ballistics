@@ -2,14 +2,22 @@
 
 Author : Klimenteva Maria
 
+### The task
+The task was to create a model of the movement of a ballistic target and to extend it using the Runge-Kutta method.
+You can see the python code in Jupiter Notebook. The following graphs have turned out to clearly show the movement of the bullet:
 
-A model of the movement of a ballistic missile and to carry out its prolongation using the Runge-Kutta method.
-You can see the python code in Jupiter Notebook. Also for clarity there are graphs:
-- height from time
-- height from range
-- speed versus time
-- speed from range
-- acceleration from time
-- acceleration from range
-- target trajectory in 3D
+- #### Height from time
+- #### Height from distance
+<img src="charts\Высота от времени.png" width=50% height=50%><img src="charts\Высота от дальности.png" width=50% height=50%>
+
+- #### Speed versus time
+- #### Speed from distance
+<img src="charts\Скорость от времени.png" width=50% height=50%><img src="charts\Скорость от дальности.png" width=50% height=50%>
+
+- #### Acceleration from time
+- #### Acceleration from distance
+<img src="charts\Ускорение от времени.png" width=50% height=50%><img src="charts\Ускорение от дальности.png" width=50% height=50%>
+
+- #### Target trajectory in 3D
+<img src="charts\Траектория 3D.png" width=80% height=50%>
 
