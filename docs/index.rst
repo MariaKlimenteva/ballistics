@@ -10,7 +10,9 @@ Welcome to Ballistics's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-
+.. automodule:: 
+   :members:
+   :undoc-members:
 
 Indices and tables
 ==================
