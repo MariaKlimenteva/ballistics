@@ -5,14 +5,14 @@
 
 Welcome to Ballistics's documentation!
 ======================================
-
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: 
-   :members:
-   :undoc-members:
+Functions
+=========
+.. automodule:: ballistics
+.. autofunction:: equations
 
 Indices and tables
 ==================
